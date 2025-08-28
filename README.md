@@ -21,9 +21,21 @@
 ---
 
 ## Installazione e compilazione / Installation and Compilation
-Assicurati di avere **Java 21** installato / Make sure you have **Java 21** installed.
+**Clona il repository / Clone the repository**
+```bash
+git clone https://github.com/alessandromargini/MysticJourneyAlpha.git
+cd MysticJourneyAlpha
+````
 
-Apri il terminale e naviga nella cartella del gioco / Open the terminal and navigate to the game folder:
+**Verifica la versione di Java / Check your Java version**
+
+```bash
+java -version
+```
+
+Assicurati di avere Java 21 installato / Make sure you have Java 21 installed.
+
+**Apri il terminale e naviga nella cartella del gioco / Open the terminal and navigate to the game folder:**
 
 ```bash
 rm MysticJourneyAlpha.java        # Rimuove eventuali versioni precedenti / Remove any previous versions
